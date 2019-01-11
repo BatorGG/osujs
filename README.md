@@ -1,0 +1,2 @@
+# osujs
+Osu in javascript
